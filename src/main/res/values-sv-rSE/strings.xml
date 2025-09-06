@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="teaching_android_development">Undervisning I Android Utveckling</string>
+    <string name="login">Logga in</string>
+    <string name="create_account">Skapa konto</string>
+    <string name="email">E-post</string>
+    <string name="password">Lösenord</string>
+    <string name="forgot_password">Glömt lösenord?</string>
+    <string name="facebook_login">Logga in med Facebook</string>
+    <string name="google_login">Logga in med Google</string>
+    <string name="twitter_login">Logga in med Twitter</string>
+    <string name="successful_login">Inloggning lyckades</string>
+    <string name="invalid_email">Ogiltig e-post</string>
+    <string name="password_field_cannot_be_empty">Lösenordsfältet får inte vara tomt</string>
+    <string name="username">Användarnamn</string>
+    <string name="account_created">Konto skapat</string>
+    <string name="username_cannot_be_empty">Användarnamn får inte vara tomt</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/alabaster"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingHorizontal="38dp"
+    tools:context=".WelcomeActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/laptop" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:fontFamily="@font/montserrat"
+        android:text="@string/linero_tech_ab"
+        android:textColor="@color/black"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="68dp"
+        android:fontFamily="@font/montserrat"
+        android:gravity="center"
+        android:text="@string/teaching_android_development"
+        android:textColor="@color/monsoon"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:backgroundTint="@color/purple_100"
+        android:fontFamily="@font/montserrat_medium"
+        android:text="@string/login"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/buttonCreateAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/purple_light"
+        android:fontFamily="@font/montserrat_medium"
+        android:text="@string/create_account"
+        android:textAllCaps="false" />
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="teaching_android_development">Enseñando desarrollo de Android</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="facebook_login">Iniciar sesión con Facebook</string>
+    <string name="google_login">Iniciar sesión con Google</string>
+    <string name="twitter_login">Iniciar sesión con Twitter</string>
+    <string name="successful_login">Inicio de sesión exitoso</string>
+    <string name="invalid_email">Correo electrónico no válido</string>
+    <string name="password_field_cannot_be_empty">El campo de contraseña no puede estar vacío</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="account_created">Cuenta creada</string>
+    <string name="username_cannot_be_empty">El nombre de usuario no puede estar vacío</string>
+</resources>
